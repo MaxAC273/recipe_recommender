@@ -10,7 +10,7 @@ This project aims to apply unsupervised machine learning techniques to the Food.
 
 - **Nutritional Analysis**: Clustering recipes based on nutritional content to align with users' dietary goals or restrictions.
 
--**Trend Analysis**: Identifying trending ingredients or cuisines to guide recipe development and marketing strategies.
+- **Trend Analysis**: Identifying trending ingredients or cuisines to guide recipe development and marketing strategies.
 
 - **Ingredient Substitution (Stretch Goal)**: Recommending alternative ingredients for accommodating dietary restrictions, regional availability, or personal preferences.
 - **Difficulty Level Classification (Stretch Goal)**: Classifying recipes based on difficulty levels to match users' cooking skills.
